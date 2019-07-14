@@ -1,7 +1,7 @@
 # Missio to Mars: Apprentices - July 2019
 
 Code created at the iamdigital Mission to Mars in July 2019, hosted at the Cornwall College
-campus in St. Austell. Students were given the support of a team of mentors from local education
+campus in Pool. Students were given the support of a team of mentors from local education
 and businesses and tasked to complete the provided manoeuvrability challenges.
 
 ## Results
