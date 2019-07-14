@@ -1,7 +1,7 @@
 # Missio to Mars: Apprentices - July 2019
 
-Code created at the iamdigital Mission to Mars in July 2019, hosted at the Cornwall College 
-campus in St. Austell. Students were given the support of a team of mentors from local education 
+Code created at the iamdigital Mission to Mars in July 2019, hosted at the Cornwall College
+campus in St. Austell. Students were given the support of a team of mentors from local education
 and businesses and tasked to complete the provided manoeuvrability challenges.
 
 ## Results
@@ -16,6 +16,8 @@ The results were:
 4. Fourth Rock                  - $65,876
 5. Mars Motivation              - $ 61,709
 6. Helston, we have a problem   - $61,384
+
+![Mission to Mars team results](results.png "Final team results")
 
 ## Usage Instructions
 Clone the project locally and check out the various .ino files.
